@@ -48,7 +48,7 @@ export function LoginPage() {
               EcoRecycle Factory
             </CardTitle>
             <CardDescription className="text-slate-500">
-              Enter your credentials to access the system Test Edit
+              Enter your credentials to access the system 
             </CardDescription>
           </CardHeader>
           
