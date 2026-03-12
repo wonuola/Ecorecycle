@@ -1298,3 +1298,4 @@ class DatabaseService {
 
 // Export singleton instance
 export const db = new DatabaseService();
+
